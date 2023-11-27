@@ -1,0 +1,12 @@
+md5: 4635d0339099c5cf0866d5eddb7ac5bd
+frozen: true
+deps:
+- checksum: '"39fd40e3-5f769acbbbbb2"'
+  size: 972898531
+  path: 
+    https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh38_latest/refseq_identifiers/GRCh38_latest_genomic.fna.gz
+  hash: md5
+outs:
+- md5: c30471567037b2b2389d43c908c653e1
+  size: 972898531
+  path: GRCh38.fna.gz

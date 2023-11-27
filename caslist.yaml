@@ -1,0 +1,12 @@
+defined :
+    - name: spcas9
+      type: II
+      pam: NGG
+
+    - name: sacsa9
+      type: II
+      pam: NNGRRT
+
+    - name: AsCas12a_Cpf1
+      type: V
+      pam: TTTN
